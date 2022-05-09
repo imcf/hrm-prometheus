@@ -11,3 +11,6 @@ __pycache__/
 *.code-workspace
 /.coverage
 /htmlcov/
+
+# non-tracked stuff
+/sandbox/
