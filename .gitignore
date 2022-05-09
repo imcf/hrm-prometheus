@@ -1,0 +1,13 @@
+# builds
+/dist/
+
+# generated documentation
+docs/
+
+# pyenv-stuff, cache, VS code, ...
+.python-version
+__pycache__/
+/.vscode/
+*.code-workspace
+/.coverage
+/htmlcov/
